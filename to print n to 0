@@ -1,8 +1,4 @@
 n=10
 for i in range(n+1,0,-1):
     print(i)
-#36 print only single digit
-li=[1,12,3,24,5,53]
-for i in li:
-    if i<10:
-        print(i)
+
